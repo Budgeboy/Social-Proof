@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+margin: 5% 5%;
+}
+.ten{
+    float: left;
+    width: 50%;
+    height: auto;
+    color: rgb(73, 3, 73);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ten p{
+    color:rgb(218, 188, 218) ;
+    font-weight: 500;
+    padding-top: 8px;
+}
+.box1{
+    width: 400px;
+    height: 40px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 5px;
+}
+.box2{
+    width: 400px;
+    height: 40px;
+    background-color: hsl(300, 24%, 96%);
+    margin-left: 10%;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+.box3{
+    width: 400px;
+    height: 40px;
+    background-color: hsl(300, 24%, 96%);
+    margin-left: 20%;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+.ten, .box1, .box2, .box3{
+    padding: 5px 5px;
+}
+.box1 p{
+    padding: 3px 15px;
+    color:rgb(73, 3, 73);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+.box2 p{
+    padding: 3px 15px;
+    color:rgb(73, 3, 73);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+.box3 p{
+    padding: 3px 15px;
+    color:rgb(73, 3, 73);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+.testimonial{
+    float: left;
+    background-color: rgb(73, 3, 73);
+    height: 30vh;
+    border-radius: 5px;
+    width: 25%;
+    margin: 5% 5%;
+    border: none;
+}
+.test2{
+    margin-left: 5%;
+    position: absolute;
+    top: 37%;
+    left: 30%;
+}
+.test3{
+    position: absolute;
+    top: 43%;
+    left: 60%;
+}
+.colton{
+    display: flex;
+}
+#colt{
+    border-radius: 100px;
+    padding: 20px;
+    height: 100px;
+}
+.h{
+    padding: 30px 0px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9rem;
+}
+.h span{
+    color: hsl(333, 80%, 67%);
+    font-size: 0.9rem;
+}
+.p{
+    color: #fff;
+    padding: 0px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.irene{
+    display: flex;
+}
+#irene{
+    border-radius: 100px;
+    padding: 20px;
+    height: 100px;
+}
+.Anne{
+    display: flex;
+}
+#anne{
+    border-radius: 100px;
+    padding: 20px;
+    height: 100px;
+}
+.footer{
+    position: absolute;
+    top: 100%;
+    left: 35%;
+}
+.footer a{
+    text-decoration: none;
+}
